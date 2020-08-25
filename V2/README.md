@@ -1,6 +1,6 @@
 # Dot_Files
 
-![screenshot-1](https://raw.githubusercontent.com/Sidd-Dino/Dot_Files/master/V2/screenshot_1.png) <br />
+![screenshot-1](https://raw.githubusercontent.com/Sidd-Dino/Dot_Files/master/V2/screenshot_V2.png) <br />
 
 #Softwares Used
  - dunst
