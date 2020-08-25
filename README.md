@@ -10,8 +10,4 @@
 ![screenshot-V2](https://raw.githubusercontent.com/Sidd-Dino/Dot_Files/master/V2/screenshot_V2.png) <br />
 
 ## V3
-![screenshot-V3](https://raw.githubusercontent.com/Sidd-Dino/Dot_Files/master/V3/screenshot_V3.png) <br />
-
-Will have a better terminal theme and setup<br />
-And more improvements :)<br />
-Overall color scheme will be improved
+![screenshot-1](https://raw.githubusercontent.com/Sidd-Dino/Dot_Files/master/V3/screenshot_V3.png) <br />
