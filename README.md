@@ -1,13 +1,13 @@
-<h1 align="center">DotFiles</h1>
-<br>
+# Dot_Files
 
-## V1
+![screenshot-1](screenshot_V1.png) <br/>
 
-![screenshot-V1](https://raw.githubusercontent.com/Sidd-Dino/Dot_Files/master/V1/screenshot_V1.png) <br />
-
-## V2
-
-![screenshot-V2](https://raw.githubusercontent.com/Sidd-Dino/Dot_Files/master/V2/screenshot_V2.png) <br />
-
-## V3
-![screenshot-1](https://raw.githubusercontent.com/Sidd-Dino/Dot_Files/master/V3/screenshot_V3.png) <br />
+##Softwares Used
+ - betterlockscreen
+ - blueman-applet
+ - conky
+ - dunst
+ - nm-applet
+ - polybar
+ - rofi
+ - viewnior
