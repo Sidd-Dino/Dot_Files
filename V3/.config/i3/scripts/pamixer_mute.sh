@@ -1,7 +1,0 @@
-#!/usr/bin/env bash
-
-if [[ "`pamixer --get-mute`" == "true" ]]; then
-	pamixer -u
-else 
-	pamixer -m
-fi
