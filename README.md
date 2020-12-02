@@ -1,13 +1,11 @@
-<h1 align="center">DotFiles</h1>
-<br>
+# V3
 
-## V1
+![screenshot](screenshot_V3.png)
 
-![screenshot-V1](https://raw.githubusercontent.com/Sidd-Dino/Dot_Files/master/V1/screenshot_V1.png) <br />
-
-## V2
-
-![screenshot-V2](https://raw.githubusercontent.com/Sidd-Dino/Dot_Files/master/V2/screenshot_V2.png) <br />
-
-## V3
-![screenshot-1](https://raw.githubusercontent.com/Sidd-Dino/Dot_Files/master/V3/screenshot_V3.png) <br />
+```
+Terminal             = Alacritty
+Terminal Multiplexer = Tmux
+Shell                = Bash
+Notification Server  = dunst
+WM                   = i3wm
+```
