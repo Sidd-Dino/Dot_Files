@@ -1,0 +1,32 @@
+[global]
+    follow              = mouse
+    geometry            = "400x5-5+5"
+    indicate_hidden     = yes
+    shrink              = yes
+    separator_height    = 2
+    padding             = 6
+    horizontal_padding  = 6
+    frame_width         = 0
+    font                = JetbrainsMono Nerd Font Mono 9 
+    format              = "<b>%s</b>\n%b"
+
+[shortcuts]
+    close     = ctrl+space
+    close_all = ctrl+shift+space
+    history   = ctrl+grave
+    context   = ctrl+shift+period
+
+[urgency_low]
+    background  = "#000000"
+    foreground  = "#8be9fd"
+    timeout     = 8
+
+[urgency_normal]
+    background  = "#202020"
+    foreground  = "#50fa7b"
+    timeout     = 10
+
+[urgency_critical]
+    background  = "#202020"
+    foreground  = "#ff5555"
+    timeout     = 15
