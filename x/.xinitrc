@@ -8,7 +8,7 @@ systemctl --user import-environment DISPLAY
 
 wllppr &
 
-# killall battify script 
+# killall battify scripts 
 pgrep -f "battify" | awk '{system("kill " $2)}'
 
 #launch battify
@@ -16,5 +16,7 @@ battify &
 
 urxvtd -q -f -o
 
-# start wm
-siddwm
+sxhkd -c "$HOME"/.config/berry/sxhkdrc &
+
+#wm
+exec berry
